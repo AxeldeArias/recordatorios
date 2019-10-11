@@ -4,10 +4,10 @@ import {View,TouchableHighlight,Text,StyleSheet} from 'react-native'
 const styles = StyleSheet.create({
   
     button:{
-        backgroundColor:'cyan',
+        backgroundColor:'blue',
         paddingVertical: 15,
         paddingHorizontal:20,
-        height:50
+        borderRadius:4
     },
     text:{
         color:'#fff',
