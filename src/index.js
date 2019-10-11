@@ -1,7 +1,6 @@
 import React from 'react';
 import { Modal,TextInput, StyleSheet, Text, View, FlatList} from 'react-native';
-import item from './item'
-import Button from './Button'
+import {item,Button} from './componentes'
 
 export default class App extends React.Component {
   state = {
